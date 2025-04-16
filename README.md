@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Simon, doctor / software engineer from Canberra, Australia. 
+I'm Simon, doctor / software engineer currently living in Sydney, Australia.
 
 - 👨‍⚕️ RACP Advanced Trainee 
 - 👨‍🏫 Associate lecturer, Australian National University 
